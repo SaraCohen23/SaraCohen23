@@ -50,7 +50,7 @@ Full Stack Developer with a strong systems-oriented mindset, rapid learning abil
 
 ## 🤝 Let's Connect
 📧 Email: [scc161376@gmail.com](mailto:scc161376@gmail.com)
-📱 Phone: 0583272665
+📱 Phone: 0548518025
 🌐 GitHub: [https://github.com/SaraCohen23](https://github.com/SaraCohen23)
 
 
