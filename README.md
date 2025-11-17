@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Chana Fridman
+## 👋 Hi, I'm Sara Cohen
 
 Full Stack Developer with a strong systems-oriented mindset, rapid learning abilities, and deep understanding of both code and system architecture. Quickly integrates into existing projects and efficiently decipher.
 
@@ -34,35 +34,23 @@ Full Stack Developer with a strong systems-oriented mindset, rapid learning abil
 
 
 ## 📊 GitHub Stats
-![Chana's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanaFridman&show_icons=true&theme=radical)
+![Chana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraCohen23&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanaFridman&layout=compact&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraCohen23&layout=compact&langs_count=8&theme=tokyonight)
 
-🏫 School Management System (https://github.com/chanaFridman/school-management-client)
-- Comprehensive school management platform with client-server architecture
-- Features: Student & teacher management, grade tracking, schedule management
-- Built with React 18 (client), Node.js/Express (server), MongoDB
-- Supports admin, teacher, and student roles with different permission levels
-- Server Repository: https://github.com/chanaFridman/school-management-server
-
-📋 Inquiry Management System (https://github.com/chanaFridman/java-inquiry-management-system)
+📋 Inquiry Management System (https://github.com/SaraCohen23/inquiry-management-system)
 - Java-based system for handling customer inquiries
 - Features: Real-time client-server communication, inquiry tracking
 - Supports request, question, and complaint types
 - Built with Java 11, Maven
 
-🍳 Recipe App (https://github.com/chanaFridman/recipe-app)
-- Modern recipe management application with Material UI
-- Features: Recipe management, user authentication, favorites
-- Built with React 18, Redux Toolkit, React Hook Form
-
-📦 3 Layer Inventory Management System (https://github.com/chanaFridman/inventory-management-3layer)
+📦 3 Layer Inventory Management System (https://github.com/SaraCohen23/inventory-management-3layer)
 - Desktop application demonstrating 3-tier architecture
 - Built with C# .NET
 
 ## 🤝 Let's Connect
-📧 Email: [chana.fridman7@gmail.com](mailto:chana.fridman7@gmail.com)
+📧 Email: [scc161376@gmail.com](mailto:scc161376@gmail.com)
 📱 Phone: 0583272665
-🌐 GitHub: [https://github.com/chanaFridman](https://github.com/chanaFridman)
+🌐 GitHub: [https://github.com/SaraCohen23](https://github.com/SaraCohen23)
 
 
