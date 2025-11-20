@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sara Cohen
 
-Full Stack Developer with a strong systems-oriented mindset, rapid learning abilities, and deep understanding of both code and system architecture. Quickly integrates into existing projects and efficiently decipher.
+Developer with a strong systems-oriented mindset, rapid learning abilities, and deep understanding of both code and system architecture. Quickly integrates into existing projects and efficiently decipher.
 
 ## 🛠️ Tech Stack
 
