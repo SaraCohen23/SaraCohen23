@@ -39,16 +39,18 @@ Developer with a strong systems-oriented mindset, rapid learning abilities, and 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraCohen23&layout=compact&langs_count=8&theme=tokyonight)
 
  📷 SpeedyCam Driver for Raspberry Pi (https://github.com/KamaTechOrg/SpeedyCam)
- -Features: MIPI-CSI & DMA support, shared-memory buffers, V4L2 integration
- -IOCTL driver interfaces for configuration and user–kernel communication
- -OpenCV algorithms: White Balance, Color Conversion, Single-Channel Extraction, RGB Debayering
- -Performance optimizations using NEON-SIMD & OpenMP, ~30% latency reduction
- -Unit & integration tests using mocks, fully integrated with CI workflow
+ 
+ - Features: MIPI-CSI & DMA support, shared-memory buffers, V4L2 integration
+ - IOCTL driver interfaces for configuration and user–kernel communication
+ - OpenCV algorithms: White Balance, Color Conversion, Single-Channel Extraction, RGB Debayering
+ - Performance optimizations using NEON-SIMD & OpenMP, ~30% latency reduction
+ - Unit & integration tests using mocks, fully integrated with CI workflow
 
  ♟️ Strategic Game Engine (KFChess) (https://github.com/SaraCohen23/kongfu_chess) 
-  -Multithreaded Python chess engine following SOLID principles (Factory, Observer, State Machine)
-  -WebSocket networking for synchronized multiplayer with minimal latency
-  -Focused on performance, modularity, and maintainable architecture
+ 
+  - Multithreaded Python chess engine following SOLID principles (Factory, Observer, State Machine)
+  - WebSocket networking for synchronized multiplayer with minimal latency
+  - Focused on performance, modularity, and maintainable architecture
 
 📋 Inquiry Management System (https://github.com/SaraCohen23/inquiry-management-system)
 - Java-based system for handling customer inquiries
